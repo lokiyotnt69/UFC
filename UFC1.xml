@@ -98,24 +98,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>Las 10 Mejores Peleas</title>
 <urlsolve>https://www.youtube.com/watch?v=CtxdAQhoM0g</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</thumbnail>
+<fanart>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</fanart>
 </item>
 
 
 <item>
 <title>Cruz vs Faber 2</title>
 <urlsolve>https://www.youtube.com/watch?v=h6P6IAkRyv0&t=41s</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</thumbnail>
+<fanart>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</fanart>
 </item>
 
 
 <item>
 <title>LAS 50 PELEAS MAS SALVAJES DE LA HISTORIA UFC NOCAUT 2017</title>
 <urlsolve>https://www.youtube.com/watch?v=PvV5AhqqEGQ</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</thumbnail>
+<fanart>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</fanart>
 </item>
 
 
@@ -123,8 +123,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>LAS 20 PELEAS MAS SALVAJES DE LA HISTORIA UFC NOCAUT</title>
 <urlsolve>https://www.youtube.com/watch?v=Q8QPATosSDw</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</thumbnail>
+<fanart>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</fanart>
 </item>
 
 
@@ -132,33 +132,33 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>LAS 30 PELEAS MAS SALVAJES DE LA HISTORIA DEL UFC NOCAUT 2017</title>
 <urlsolve>https://www.youtube.com/watch?v=xFGJuRnjwg0</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</thumbnail>
+<fanart>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</fanart>
 </item>
 
 
 <item>
 <title>Conor McGregor Vs Cody Garbrandt Fights</title>
 <urlsolve>https://www.youtube.com/watch?v=vpA4l_Xav0E</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</thumbnail>
+<fanart>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</fanart>
 </item>
 
 
 <item>
 <title>Batista MMA fight 15 march 2017 ufc</title>
 <urlsolve>https://www.youtube.com/watch?v=mNWdNssEPwI</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</thumbnail>
+<fanart>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</fanart>
 </item>
 
 
 
 <item>
-<title></title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>DEMETRIOS JOHNSON vs WILSON REIS UFC on FOX 24 15.04.2017</title>
+<urlsolve>https://www.youtube.com/watch?v=Q0fUm7Zu3Og</urlsolve>
+<thumbnail>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</thumbnail>
+<fanart>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</fanart>
 </item>
 
 
