@@ -206,11 +206,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title></title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>Floyd Mayweather vs Manny Pacquiao</title>
+<urlsolve>https://www.youtube.com/watch?v=_374FJa02ws</urlsolve>
+<thumbnail>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</thumbnail>
+<fanart>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</fanart>
 </item>
+
 
 
 <item>
