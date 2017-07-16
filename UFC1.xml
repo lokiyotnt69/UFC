@@ -220,9 +220,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>24 HORAS GOKU</title>
-<urlsolve></urlsolve>
+<urlsolve>https://www.youtube.com/watch?v=2j7OvqbffKE</urlsolve>
 <thumbnail></thumbnail>
-<fanart>https://www.youtube.com/watch?v=2j7OvqbffKE</fanart>
+<fanart></fanart>
 </item>
 
 
