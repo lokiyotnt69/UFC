@@ -109,8 +109,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve></urlsolve>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] Perfect Team vs Ultimate Warriors 1990 [/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=iljFbumfsKQ</urlsolve>
+<thumbnail>https://i.imgur.com/mytkX8o.jpg</thumbnail>
+<fanart>https://i.imgur.com/mytkX8o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] The Undertaker WWE Debut[/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=H-XHQbJ04Qo</urlsolve>
+<thumbnail>https://i.imgur.com/mytkX8o.jpg</thumbnail>
+<fanart>https://i.imgur.com/mytkX8o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] Hulk Hogan vs. Ultimate Warrior: WrestleMania VI - Champion vs. Champion Match[/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=BfqV3xI8l_s</urlsolve>
 <thumbnail>https://i.imgur.com/mytkX8o.jpg</thumbnail>
 <fanart>https://i.imgur.com/mytkX8o.jpg</fanart>
 </item>
@@ -122,32 +136,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/mytkX8o.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/mytkX8o.jpg</thumbnail>
-<fanart>https://i.imgur.com/mytkX8o.jpg</fanart>
-</item>
 
 <item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve></urlsolve>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] WWE Royal Rumble - The Royal Rumble Srvivor Series 1990 [/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=8JZgz53VGec</urlsolve>
 <thumbnail>https://i.imgur.com/mytkX8o.jpg</thumbnail>
 <fanart>https://i.imgur.com/mytkX8o.jpg</fanart>
 </item>
 
 
 <item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/mytkX8o.jpg</thumbnail>
-<fanart>https://i.imgur.com/mytkX8o.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve></urlsolve>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] UNDERTAKER VS MANKIND Best Match [/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=hf5c2VZ-pCo</urlsolve>
 <thumbnail>https://i.imgur.com/mytkX8o.jpg</thumbnail>
 <fanart>https://i.imgur.com/mytkX8o.jpg</fanart>
 </item>
