@@ -174,8 +174,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve></urlsolve>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] UFC 215 Free Fight: Demetrious Johnson vs Kyoji Horiguchi [/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=q53lEYCAAfA</urlsolve>
 <thumbnail>http://i.imgur.com/QkWC62o.jpg</thumbnail>
 <fanart>http://i.imgur.com/QkWC62o.jpg</fanart>
 </item>
@@ -372,12 +372,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] Cruz vs Faber 2[/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=h6P6IAkRyv0&t=41s</urlsolve>
-<thumbnail>http://i.imgur.com/QkWC62o.jpg</thumbnail>
-<fanart>http://i.imgur.com/QkWC62o.jpg</fanart>
-</item>
 
 
 <item>
@@ -389,12 +383,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] LAS 20 PELEAS MAS SALVAJES DE LA HISTORIA UFC NOCAUT[/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=Q8QPATosSDw</urlsolve>
-<thumbnail>http://i.imgur.com/QkWC62o.jpg</thumbnail>
-<fanart>http://i.imgur.com/QkWC62o.jpg</fanart>
-</item>
 
 
 
@@ -406,80 +394,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue]  Conor McGregor Vs Cody Garbrandt Fights[/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=vpA4l_Xav0E</urlsolve>
-<thumbnail>http://i.imgur.com/QkWC62o.jpg</thumbnail>
-<fanart>http://i.imgur.com/QkWC62o.jpg</fanart>
-</item>
 
-
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] Batista MMA fight 15 march 2017 ufc[/COLOR] [COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=mNWdNssEPwI</urlsolve>
-<thumbnail>http://i.imgur.com/QkWC62o.jpg</thumbnail>
-<fanart>http://i.imgur.com/QkWC62o.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] DEMETRIOS JOHNSON vs WILSON REIS UFC on FOX 24 15.04.2017[/COLOR] [COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=Q0fUm7Zu3Og</urlsolve>
-<thumbnail>http://i.imgur.com/QkWC62o.jpg</thumbnail>
-<fanart>http://i.imgur.com/QkWC62o.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] DEMETRIOUS JOHNSON vs WILSON REIS Full Fight | UFC On Fox 24[/COLOR] [COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=f39n3blJrAc</urlsolve>
-<thumbnail>http://i.imgur.com/QkWC62o.jpg</thumbnail>
-<fanart>http://i.imgur.com/QkWC62o.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] UFC 179: 5º round entre José Aldo e Chad Mendes[/COLOR] [COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=VB2Hu2WH5z0</urlsolve>
-<thumbnail>http://i.imgur.com/QkWC62o.jpg</thumbnail>
-<fanart>http://i.imgur.com/QkWC62o.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue]  Anderson Silva vs. Yushin Okami - UFC 134 Rio - Rumble on the Rock 8[/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=VL0aSKyusr0</urlsolve>
-<thumbnail>http://i.imgur.com/QkWC62o.jpg</thumbnail>
-<fanart>http://i.imgur.com/QkWC62o.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] Cain Velasquez Vs Brock Lesnar, UFC[/COLOR] [COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=RdOZQDEEDeg</urlsolve>
-<thumbnail>http://i.imgur.com/QkWC62o.jpg</thumbnail>
-<fanart>http://i.imgur.com/QkWC62o.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] Chuck Liddell Destroys Tito Ortiz At UFC 47[/COLOR] [COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=VfVzFRHKQEk</urlsolve>
-<thumbnail>http://i.imgur.com/QkWC62o.jpg</thumbnail>
-<fanart>http://i.imgur.com/QkWC62o.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] Floyd Mayweather vs Manny Pacquiao[/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=_374FJa02ws</urlsolve>
-<thumbnail>http://i.imgur.com/QkWC62o.jpg</thumbnail>
-<fanart>http://i.imgur.com/QkWC62o.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
