@@ -101,7 +101,31 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] "PACQUIAO" VS"MARQUEZ".1 [/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=KU-7OF-GZio</urlsolve> 
+<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
+<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] Manny Pacquiao v Juan Manuel Marquez 1 [/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=Cx9jzsPv1l8</urlsolve>
+<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
+<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
+<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
 <fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
@@ -110,7 +134,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
 <fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
@@ -118,31 +142,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
-<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
-<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
-<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
 <fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
