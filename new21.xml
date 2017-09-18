@@ -81,8 +81,6 @@
 		<thumbnail>https://www.yiptv.com/wp-content/uploads/2015/11/bein-n-blog.jpg</thumbnail>
 	</item>
 	
-
-
 	
 
 	
@@ -92,7 +90,7 @@
 		<title>[COLOR skyblue]EUROSPORT 1[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=eurosportsesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/eurosport</referer>
-		<thumbnail></thumbnail>
+		<thumbnail>http://4.bp.blogspot.com/-pO4sj5xn73c/Ua7Aix4idTI/AAAAAAAAGns/nyDdsgBl-RY/s1600/Eurosport+logo+2011+on+black_png.png</thumbnail>
 		
 	</item>
 	
@@ -100,7 +98,7 @@
 		<title>[COLOR skyblue]EUROSPORT 2[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=eurosportsdosesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/eurosport2</referer>
-		<thumbnail></thumbnail>
+		<thumbnail>http://zonacycling.com/wp-content/uploads/2015/07/es2.png</thumbnail>
 	</item>
 	
 	
@@ -108,12 +106,12 @@
 		<title>[COLOR skyblue]MOVISTAR DEPORTES 1[/COLOR]</title>
 		<sportsdevil>http://vergol.com/live1/plusdeportes1.php</sportsdevil>
         <referer>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</referer>
-		<thumbnail></thumbnail>
+		<thumbnail>http://vercanalestv.com/imagenes/movistar-deportes.jpg</thumbnail>
 	</item>
 	
 	<item>
 		<title>[COLOR skyblue]MOVISTAR DEPORTES 2[/COLOR]</title>
 		<sportsdevil>http://vergol.com/live1/plusdeportes2.php</sportsdevil>
         <referer>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</referer>
-		<thumbnail></thumbnail>
+		<thumbnail>http://verdirectotv.com/logos/deportes2.png</thumbnail>
 	</item>
