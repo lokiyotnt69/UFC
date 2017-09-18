@@ -145,6 +145,59 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue]  Salido vs Vargas Pelea del año 2016 [/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=Ss-emvdn6H8</urlsolve>
+<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
+<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue]  Manny Pacquiao vs. Miguel Cotto [/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=s6bCmZmy9aQ</urlsolve>
+<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
+<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] Floyd Mayweather vs Manny Pacquiao [/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=6lJkUcPJvzM</urlsolve>
+<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
+<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] Floyd Mayweather vs. Canelo Alvarez:  [/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=F4T-rD3lpbk</urlsolve>
+<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
+<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] Oscar De La Hoya vs. Floyd Mayweather [/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=tIvUty1_e0M</urlsolve>
+<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
+<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] TVCUBANO, SERIE MUNDIAL DE BOXEO 2017, DOMADORES vs CACIQUES [/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=6NpEu4uZlOI</urlsolve>
+<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
+<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] Joel Casamayor vs Juan Manuel Marquez HBO PPV 9/13/2008 [/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=UsonbzZ4Lb0</urlsolve>
+<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
+<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
@@ -174,21 +227,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
 <fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
 </item>
-
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
-<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue][/COLOR][COLOR red][/COLOR][COLOR yellow] _**_ [/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
-<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
-</item>
-
 
 
 <item>
