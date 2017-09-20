@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+	   
+
+
+
+
+	
+	<item>
+		<title>[COLOR skyblue]MOVISTAR ACCION[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=accion&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/pelis/maccion</referer>
+<thumbnail>http://www.vertelevision.online/wp-content/uploads/2017/07/MAccion1.png</thumbnail>
+	</item>
+	
+	
+<item>
+		<title>[COLOR skyblue]MOVISTAR DCINE Ñ[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=dicneesp&width=100%&height=100%</sportsdevil>
+		<referer>http://telefivegb.com/animacion/ver-el-canal-dcine-n-en-vivo-y-gratis-online/</referer>	
+		<thumbnail>http://vercanalestv.com/imagenes/movistar-dcine-espanol.jpg</thumbnail> 
+	</item>
+
+	
+	<item>
+		<title>[COLOR skyblue]MOVISTAR DCINE[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=dicneesp&width=588&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/pelis/dcinen</referer>	
+		<thumbnail>http://www.vertelevision.online/wp-content/uploads/2017/07/MDCine.png</thumbnail> 
+	</item>
+	
+	
+	
+	
+		<item>
+		<title>[COLOR skyblue]HOLLYWOOD[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=397&autoplay=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/pelis/hollywood</referer>
+		<thumbnail>http://canalhollywood.es/wp-content/uploads/2016/01/Canal-Hollywood-logo.jpg</thumbnail> 
+	</item>
+
+	
+		<item>
+		<title>[COLOR skyblue]TCM[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embed.php?file=tcmesp&width=650&height=397&autoplay=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/pelis/tcm</referer>
+		<thumbnail>http://www.brandemia.org/sites/default/files/logo_tcm_2.jpg</thumbnail> 
+	</item>
+	
+	
+	<item>
+		<title>[COLOR skyblue]TNT[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=tntesp&width=650&height=397&autoplay=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/series/tnt</referer>
+		<thumbnail>https://k30.kn3.net/taringa/2/0/3/F/9/2/Alexbjm/024.jpg</thumbnail> 
+	</item>
+	
+
+	
+
+	<item>
+		<title>[COLOR skyblue]MOVISTAR SERIES[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=mseries&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/series/m_series</referer>	
+		<thumbnail>https://sigueenserie.files.wordpress.com/2015/07/canal-plus-series-logo-530.jpg</thumbnail>
+	</item>
+	
+	<item>
+<title>[UPPERCASE][COLOR skyblue]  MOVISTAR SERIES XTRA[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=seriesxtra&width=650&height=397</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>http://srv00.epimg.net/programacion-tv/iconos/canales/mv2.png<thumbnail>   </item>
+	
+	
+		<item>
+		<title>[COLOR skyblue]#0[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embed.php?file=pluscero&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/pelis/movistar0</referer>
+		<thumbnail>http://vercanalestv.com/logos/canal-0.png</thumbnail>
+	</item>
+
+
+	
+	<item>
+		<title>[COLOR skyblue]SYFY[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=sysfesp&width=650&height=397&autoplay=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/series/sysf</referer>
+		<thumbnail>http://www.lamac.org/res/channels/logos/_0030_syfy.png</thumbnail>
+	</item>
+
+	
+	
+</item>
+	
+		<item>
+		<title>[COLOR skyblue]AMC[/COLOR]</title>
+		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php</sportsdevil>
+		<referer>http://vergol.com/live/amc.php</referer>
+		<thumbnail></thumbnail>
+	</item>
+	
+	
+	</item>
+	
+		<item>
+		<title>[COLOR skyblue]DARK[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=darkes&width=650&height=397</sportsdevil>
+		<referer>http://cinestrenostv.tv/canales/envivo/dark.html</referer>
+		<thumbnail></thumbnail>
+	</item>
+	
+	
+	</item>
+	
+	
+	
+	<item>
+		<title>[COLOR skyblue]FOX[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=foxespana&width=650&height=397</sportsdevil>
+		<referer>http://telefivegb.com/canales/series/fox</referer>
+		<thumbnail></thumbnail>
+	</item>
+
+	
+
+
+	<item>
+		<title>[COLOR skyblue]FOX LIFE[/COLOR]</title>
+		<sportsdevil>http://vergol.com/live/foxlife.php</sportsdevil>
+		<referer>http://verdirectotv.com/tv/nacionales/foxlife.html</referer>
+		<thumbnail></thumbnail>
+	</item>
+	
+			
+		<item>
+		<title>[COLOR skyblue]COMEDY CENTRAL[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=comedycentral&width=650&height=400</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-paramount-comedy-online-y-en-directo-las-24h/</referer>
+		<thumbnail></thumbnail>
+	</item>
+	
+
+	
+	
+			<item>
+		<title>[COLOR skyblue]A&E[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/envivo/ae.html</referer>
+		<thumbnail></thumbnail>
+	</item>
+	
+
+	<item>
+		<title>[COLOR skyblue]CALLE 13[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=calltrees&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://cinestrenostv.tv/canales/nacionales/calle13.php</referer>
+		<thumbnail> </thumbnail>
+		
+	</item>
+
+		<item>
+		<title>[COLOR skyblue]AXN WHITE[/COLOR]</title>
+		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/axnwhite.php</sportsdevil>
+		<referer>http://cinestrenostv.tv/canales/envivo/axnwhite.html</referer>
+		<thumbnail></thumbnail>
+	</item>
+
+	
+	
+</item>
+	
+		<item>
+		<title>[COLOR skyblue]AXN[/COLOR]</title>
+		<sportsdevil>http://vergol.com/live/axn.php</sportsdevil>
+		<referer>http://vercanalestv.com/tv/nacionales/axn.html</referer>
+		<thumbnail></thumbnail>
+	</item>
+
+
+
+	
+	
