@@ -101,7 +101,7 @@
 		<title>[COLOR skyblue]AMC[/COLOR]</title>
 		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php</sportsdevil>
 		<referer>http://vergol.com/live/amc.php</referer>
-		<thumbnail></thumbnail>
+		<thumbnail>https://i0.wp.com/cine3.com/wp-content/uploads/2014/08/amc-logo-639x360.jpg</thumbnail>
 	</item>
 	
 	
@@ -111,7 +111,7 @@
 		<title>[COLOR skyblue]DARK[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=darkes&width=650&height=397</sportsdevil>
 		<referer>http://cinestrenostv.tv/canales/envivo/dark.html</referer>
-		<thumbnail></thumbnail>
+		<thumbnail>http://latelete.tv/img/dark.jpg</thumbnail>
 	</item>
 	
 	
@@ -123,7 +123,7 @@
 		<title>[COLOR skyblue]FOX[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=foxespana&width=650&height=397</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/fox</referer>
-		<thumbnail></thumbnail>
+		<thumbnail>http://verdirectotv.com/logos/fox.png</thumbnail>
 	</item>
 
 	
@@ -133,22 +133,23 @@
 		<title>[COLOR skyblue]FOX LIFE[/COLOR]</title>
 		<sportsdevil>http://vergol.com/live/foxlife.php</sportsdevil>
 		<referer>http://verdirectotv.com/tv/nacionales/foxlife.html</referer>
-		<thumbnail></thumbnail>
+		<thumbnail>http://images.mi.tv/channels/mx_fox-life_m.png</thumbnail>
 	</item>
 	
+			
 			
 		<item>
 		<title>[COLOR skyblue]COMEDY CENTRAL[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=comedycentral&width=650&height=400</sportsdevil>
 <referer>http://www.vercanalestv.com/ver-paramount-comedy-online-y-en-directo-las-24h/</referer>
-		<thumbnail></thumbnail>
+		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/69/Comedy_Central_Extra.png</thumbnail>
 	</item>
 	
 
 	
 	
 			<item>
-		<title>[COLOR skyblue]A&E[/COLOR]</title>
+		<title>[COLOR skyblue]A&E [/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/envivo/ae.html</referer>
 		<thumbnail></thumbnail>
@@ -159,7 +160,7 @@
 		<title>[COLOR skyblue]CALLE 13[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=calltrees&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://cinestrenostv.tv/canales/nacionales/calle13.php</referer>
-		<thumbnail> </thumbnail>
+		<thumbnail>http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg</thumbnail>
 		
 	</item>
 
@@ -167,7 +168,7 @@
 		<title>[COLOR skyblue]AXN WHITE[/COLOR]</title>
 		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/axnwhite.php</sportsdevil>
 		<referer>http://cinestrenostv.tv/canales/envivo/axnwhite.html</referer>
-		<thumbnail></thumbnail>
+		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/AXN_White_Logo.png/640px-AXN_White_Logo.png</thumbnail>
 	</item>
 
 	
