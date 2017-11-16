@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title> [COLOR yellowgreen][B]**********[COLOR orangered]------TDT-----[/COLOR] **********[/B][/COLOR] </title>	
+<link>$doregex[makelist]</link>
+</item>
+
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] Teledeporte[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</thumbnail>   </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] La 1 [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/tve1.php</page>
+<referer>http://www.vercanalestv.com/ver-tve-1-la-1-online-en-directo-gratis-24h-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
+<fanart>http://elvuelodeapis.org/wp-content/uploads/2016/02/TVE1_logo_2008.png</fanart>   </item>
+
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime]#La 2[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=tvdostelefive&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</thumbnail>  
+<fanart>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</fanart>
+ </item>
+ 
+ 
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime]#roja Directa[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.sunhd.info/embed.php?c=111&width=640&height=400&autostart=true</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</thumbnail>  
+<fanart>http://tvinfancia.es/tvinfancia/sites/default/files/la2.png</fanart>
+ </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] Antena 3[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/antena3.php</page>
+<referer>http://www.vercanalestv.com/ver-antena-3-online-y-en-directo-24h-gratis/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://www.futurlife21.com/wp-content/uploads/logo-antena-3.png</thumbnail>
+<fanart>http://s03.s3c.es/imag/_v0/770x420/3/4/4/antena3-logo-nuevo.jpg</fanart>   </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] Cuatro[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/cuatro.php</page>
+<referer>http://www.vercanalestv.com/ver-cuatro-en-directo-y-online-gratis-fuera-de-espana-la-cuatro-hd-online/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.magazinema.es/wp-content/uploads/2015/05/Cuatro_logo.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/__q5vYNQrMKs/TIf616E4HNI/AAAAAAAABW8/lrSKanXIwxA/s400/cuatro_logo%5B1%5D.png</fanart>   </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] Tele 5[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/telecinco.php</page>
+<referer>http://www.vercanalestv.com/ver-telecinco-online-y-directo-gratis-fuera-de-espana/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Telecinco-bola.png</thumbnail>
+<fanart>https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Telecinco-bola.png</fanart>   </item>
+
+
+
+
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] La Sexta[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://verdirectotv.com/tv/nacionales/lasexta.html</page>
+<referer>http://www.vercanalestv.com/ver-la-sexta-en-directo-y-online-las-24h-gratis/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://liverdades.com/wp-content/uploads/2016/05/El-milagro-izquierdista-de-La-Sexta.png</thumbnail>
+<fanart>http://liverdades.com/wp-content/uploads/2016/05/El-milagro-izquierdista-de-La-Sexta.png</fanart>   </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] DARK [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=darkes&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://www.invisioncommunity.co.uk/wp-content/uploads/2013/04/Dark_logo_black_rgb.1.png</fanart>
+<thumbnail>http://www.invisioncommunity.co.uk/wp-content/uploads/2013/04/Dark_logo_black_rgb.1.png</thumbnail>   </item>
+
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] CRIMEN E INVESTIGACION[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.52</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=crimenyinvestigacion&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/10/crimen-investigacion-sabias-que.jpg</thumbnail>  
+<fanart>http://www.grupocomunica.com/wp-content/uploads/2016/10/crimen-investigacion-sabias-que.jpg</fanart>
+ </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] A"&"E [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://logonoid.com/images/a-and-e-logo.png</fanart>
+<thumbnail>http://logonoid.com/images/a-and-e-logo.png</thumbnail>
+   </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime]BOOMERANG[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://embed.latino-webtv.com/channels/boomerang.html</page>
+<referer>http://lacalleochotv.org/boomerang-online-en-directo-gratis/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Logo-boomerang.jpg</thumbnail>   
+<fanart>https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Logo-boomerang.jpg</fanart>  </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime]FDF[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/fdf.php</page>
+<referer>http://www.verliga.net/ver-fdf-online-gratis-en-directo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.mediaset.es/mediasetcom/brand-download/png/fdf_circular_500.png</thumbnail>   
+<fanart>http://es-pic1.ciao.com/es/60482.jpg</fanart>  </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime]Energy[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/energy.php</page>
+<referer>http://www.verliga.net/ver-energy-online-gratis-en-directo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.mediaset.es/mediasetcom/brand-download/png/energy_circular_500.png</thumbnail>   
+<fanart>http://ec.europa.eu/energy/sites/ener/files/1consumer_rights.jpg</fanart>  </item>
+
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime]Neox[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vercanalestv.com/tv/nacionales/neox.html</page>
+<referer>http://www.verliga.net/ver-neox-online-gratis-en-directo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1024px-Neox.svg.png</thumbnail>   
+<fanart>http://2.bp.blogspot.com/-FoLTJa5mu5U/TjIZZ4katWI/AAAAAAAAB0c/KRJRuN_8nMM/s1600/Neox+ident+2011.jpg</fanart>  </item>
+
+
+
+<item>
+<title> [COLOR yellowgreen][B]**********[COLOR orangered][/COLOR] **********[/B][/COLOR] </title>	
+<link>$doregex[makelist]</link>
+</item>
+
+
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] Discovery Channel [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/discovery-channel.php</page>
+<referer>http://www.vercanalestv.com/discovery-channel-en-vivo-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+
+<fanart>http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png</fanart>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png</thumbnail>   </item>
+
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] Calle 13[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=calltrees&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://vercanalestv.com/logos/calle-13.jpg</fanart>
+<thumbnail>http://www.brandemia.org/wp-content/uploads/2011/03/calle_13_2.jpg</thumbnail>   </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] #0 [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plus1.php</page>
+<referer>http://www.vercanalestv.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://comunicacion.movistarplus.es/fileUpload/newsletters/1453290428_Logotipo_Primario_RGB_FondoClaro_Grana.jpg</thumbnail> 
+<fanart>https://www.comparaiso.es/images/cero-logo3-300.jpg</fanart>  
+</item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] CANAL HISTORIA [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/historia.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-historia-en-directo-y-gratis-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png</thumbnail>  
+<fanart>http://verdirectotv.me/logos/Historia.jpg</fanart> 
+</item>
+
+
+
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime]#Cosmopolitan[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://wwww.dinostream.pw/embed.php?c=105999&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.bestdigitalgroup.com/web/wp-content/uploads/2014/02/cosmopolitan_tv_es_hd.png</thumbnail>   
+<fanart>https://upload.wikimedia.org/wikipedia/commons/1/14/Cosmopolitan_logo.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] #MEGA[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vercanalestv.com/tv/nacionales/canal-mega.html</page>
+<referer>http://www.vercanalestv.com/ver-canal-mega-online-y-directo-gratis/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/04/logo-oficial-mega-de-Megaupload-7.png</thumbnail>   
+<fanart>http://1.bp.blogspot.com/-4EkwfMcookI/VYxmBe5wHiI/AAAAAAAAH5s/TMSsCxcc1NQ/s1600/mega-logo-atresmedia.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] #AXN[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/axn.php</page>
+<referer>http://www.vercanalestv.com/ver-axn-gratis-online-en-directo-canal-axn-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://members.datafast.net.au/~systemlord/xbmc/polishtv/userdata/logos/AXN.png</thumbnail>   
+<fanart>http://www.brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] #AXN WHITE[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/axn.php</page>
+<referer>http://www.vercanalestv.com/ver-axn-white-en-directo-gratis-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://verplusonline.com/wp-content/uploads/2015/09/axnwahit.png</thumbnail>   
+<fanart>http://i60.tinypic.com/2qlbcwg.jpg</fanart>
+</item>
+
+   <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime]TNT[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/tnt.php</page>
+<referer>http://www.vertelevisor.com/ver-tnt-gratis-en-directo-online-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://vignette2.wikia.nocookie.net/logosfake/images/3/3b/TNT_HD.png</thumbnail>   
+<fanart>http://tecavicas.es/wp-content/uploads/2013/03/tnt.jpg</fanart>  </item>
+ 
+
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] #Movistar + Estrenos [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plusestrenos.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-estrenos.jpg</thumbnail>
+<fanart>http://s03.s3c.es/imag/_v0/640x300/7/3/8/canalplus-video-filtrado.jpg</fanart>   </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] #Movistar + Estrenos (Opción 2)[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plusestrenos.php</page>
+<referer>http://verliga.net/ver-canal-plus-estrenos-online-gratis-en-directo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-estrenos.jpg</thumbnail>
+<fanart>http://s03.s3c.es/imag/_v0/640x300/7/3/8/canalplus-video-filtrado.jpg</fanart>   </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] #Movistar + DCine [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/dcine.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-dcine-en-vivo-y-online-por-internet-las-24h/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://sistectelecom.com/images/canales/dc.jpg</thumbnail> 
+<fanart>http://bluper.elespanol.com/sites/default/files/styles/portadon_home/public/noticias/2016-06-16/maxresdefault.jpg?itok=aHWsc3ry</fanart>  </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] #Movistar + DCine (Opción 2) [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/dcine.php</page>
+<referer>http://www.verliga.net/ver-canal-plus-dcine-online-gratis-en-directo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://sistectelecom.com/images/canales/dc.jpg</thumbnail> 
+<fanart>http://bluper.elespanol.com/sites/default/files/styles/portadon_home/public/noticias/2016-06-16/maxresdefault.jpg?itok=aHWsc3ry</fanart>  </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] #Movistar + Comedia [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/comedia.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-comedia-online-y-en-directo-gratis-las-24h-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://verlatelegratis.com/wp-content/uploads/2015/07/movistar-comedia.png</thumbnail>
+<fanart>http://vercanalestv.com/imagenes/movistar-comedia.jpg</fanart>   </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] #Movistar + Comedia (Opción 2)[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/comedia.php</page>
+<referer>http://www.verliga.net/ver-canal-plus-comedia-online-gratis-en-directo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://verlatelegratis.com/wp-content/uploads/2015/07/movistar-comedia.png</thumbnail>
+<fanart>http://vercanalestv.com/imagenes/movistar-comedia.jpg</fanart>   </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] #Movistar + Series[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/plusseries.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-comedia-online-y-en-directo-gratis-las-24h-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png</thumbnail>
+<fanart> http://vertele.eldiario.es/files/2014/12/Movistar-Series.jpg</fanart>  </item>
+
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime]Series Xtra[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=seriesxtra&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://miguia.tv/channels/big_273@2x.png</thumbnail>  
+<fanart>https://i2.wp.com/diariomnipresente.com/wp-content/uploads/2015/04/Fortitude.jpg</fanart>
+ </item>
+ 
+ 
+ 
+
+
+<item><title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] #Movistar + Acción [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/plusaccion.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-accion-online-y-en-directo-gratis-las-24h-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://4.bp.blogspot.com/-fChv3dY38_w/V6b5Q2-yRWI/AAAAAAAAASU/IUWHNJk7VBMrAB0_H-YGoeyNjXa7n__fgCLcB/s1600/movista-accion.png</thumbnail>   
+<fanart>http://vercanalestv.com/imagenes/movistar-accion.jpg</fanart>
+</item>
+
+<item><title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] #Movistar + Acción (Opción 2) [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/plusaccion.php</page>
+<referer>http://www.verliga.net/ver-canal-plus-accion-online-gratis-en-directo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://4.bp.blogspot.com/-fChv3dY38_w/V6b5Q2-yRWI/AAAAAAAAASU/IUWHNJk7VBMrAB0_H-YGoeyNjXa7n__fgCLcB/s1600/movista-accion.png</thumbnail>   
+<fanart>http://vercanalestv.com/imagenes/movistar-accion.jpg</fanart>
+</item>
+
+
+<item>
+		<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] Caza Y Pesca[/UPPERCASE][/COLOR] </title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://verplusonline.com/ver-caza-y-pesca-online/</referer>
+		<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png</thumbnail>  
+<fanart>http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg</fanart> 
+	</item>
+
+
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] ODISEA [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=odiseatelef&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vercanalestv.com/logos/odisea.png</thumbnail>  
+<fanart>http://amcnetworks.es/wp-content/uploads/2011/02/logo-odisea-fondo-blanco.jpg</fanart>
+ </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] SYFY [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=sysfesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://picon.space/syfy.png</thumbnail>  
+<fanart>http://2.bp.blogspot.com/-r_J6Pp20N2c/VBVy8MA10nI/AAAAAAAAHpw/b7dma8IVHa4/s1600/z%2Bnation.jpg</fanart>
+ </item>
+ 
+ 
+ <item><title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] AMC[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/amc.php</page>
+<referer>http://www.vercanalestv.com/ver-amc-online-gratis-en-vivo-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png</thumbnail>  
+<fanart>http://series-tv-news.fr/wp-content/uploads/2017/02/amc-pilotes-saison-2017-2018.jpg</fanart>
+</item>
+ 
+ 
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] AMC (Opción 2) [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=amcesptele&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png</thumbnail>  
+<fanart>http://series-tv-news.fr/wp-content/uploads/2017/02/amc-pilotes-saison-2017-2018.jpg</fanart>
+ </item>
+
+ 
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] HOLLYWOOD [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.52</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png</thumbnail>  
+<fanart>http://canalhollywood.es/wp-content/uploads/2016/01/Canal-Hollywood-logo.jpg</fanart>
+ </item>
+ 
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] Fox [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=foxespana&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.itver.cc/wp-content/uploads/2015/07/FOX-HD.jpg</thumbnail> 
+<fanart>http://www.movistar.com.pe/documents/10182/1673295/img-fox-D.png</fanart> 
+ </item>
+ 
+ 
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] Fox Life[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/foxlife.php</page>
+<referer>http://www.verliga.net/ver-fox-crime-online-gratis-en-directo.html</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png</thumbnail> 
+<fanart>http://dhnn.com/es/img/case-studies/foxlife/slide1.jpg</fanart>  </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] Divinity[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/divinity.php</page>
+<referer>http://www.verliga.net/ver-divinity-online-gratis-en-directo.html</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png</thumbnail> 
+<fanart>https://upload.wikimedia.org/wikipedia/commons/0/07/Divinity.png</fanart>  </item>
+ 
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] Boing [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=boing&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.mediaset.es/mediasetcom/brand-download/png/boing_circular_500_nuevo.png</thumbnail>  
+<fanart>https://www.adslzone.tv/app/uploads/2013/10/Boing-Halloween.jpg</fanart>
+ </item>
+
+ 
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] Disney Channel[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=disneychannel&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail >http://www.elchupete.com/blog/wp-content/uploads/2010/02/disney-channel-logo.jpg</thumbnail>  
+<fanart>http://www.elchupete.com/blog/wp-content/uploads/2010/02/disney-channel-logo.jpg</fanart>
+ </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] Canal Cocina [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/cocina.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-cocina-online-gratis-las-24h-en-vivo/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</agent>
+</regex>
+<thumbnail>http://is3.mzstatic.com/image/thumb/Purple6/v4/fc/c3/bd/fcc3bd04-3e38-c1d6-5de2-14cc3c15918e/source/960x540bb.png</thumbnail> 
+<fanart>https://adrinalina31.files.wordpress.com/2017/03/canal-cocina.jpg</fanart>  </item>
+ </item>
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] HBO[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://embed.latino-webtv.com/channels/hbo.html</page>
+<referer>http://lacalleochotv.org/hbo-latino-en-directo-gratis/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://sharktankblog.com/wp-content/uploads/2013/03/hbo_blue_logo.jpg</thumbnail> 
+<fanart>http://sharktankblog.com/wp-content/uploads/2013/03/hbo_blue_logo.jpg</fanart>  </item>
+  </item>
+  
+  
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime] Animal Planet [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://embed.latino-webtv.com/animalplanet.html</page>
+<referer>http://www.vertelevisor.com/ver-animal-planet-en-vivo-gratis-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png</thumbnail> 
+<fanart>https://assets.metrolatam.com/co/2017/02/01/heroes-rescate-animal-1200x600.jpg</fanart>  </item>
+  </item>
+ 
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime]TCM[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=tcmesp&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png</thumbnail>  
+<fanart>https://i.pinimg.com/736x/86/c7/bd/86c7bdc3bd10e962e9a31bea3e575d72--vintage-cartoons-classic-cartoons.jpg</fanart>
+ </item>
+ 
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime]Be Mad[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/bemad.php</page>
+<referer>http://www.vercanalestv.com/ver-be-mad-online-y-gratis-las-24-en-directo/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.mediaset.es/mediasetcom/brand-download/png/be_mad_logo_500.png</thumbnail>   
+<fanart>http://lafabricadelatele.com/wp-content/uploads/2016/04/bemad.jpg</fanart>  
+</item>
+
+
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime]Nova[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://verdirectotv.com/tv/nacionales2/nova.html</page>
+<referer>http://www.vercanalestv.com/ver-canal-nova-en-directo-y-online-las-24-h/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://vercanalestv.com/logos/nova.png</thumbnail>   
+<fanart>https://upload.wikimedia.org/wikipedia/commons/6/6d/Tlfn2oj43tqfku8y5q4caccaeb687f2_logo-nova.jpg</fanart> 
+ </item>
+ 
+  
+<item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime]National Geographic[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/nationalgeo.php</page>
+<referer>http://www.verliga.net/ver-national-geographic-en-vivo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://www.nationalgeographic.org/static/ngs/home/img/logo.e6616dca.png</thumbnail>   
+<fanart>http://www.nationalgeographicexpeditions.com/assets/images/6798/hero-interior.jpg</fanart>  </item>
+
+
+ <item>
+<title>[COLOR gold]**[/COLOR] [UPPERCASE][COLOR lime]National Geographic WILD[/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/nationalwild.php</page>
+<referer>http://www.vertelevisor.com/national-geographic-wild-online-y-gratis-por-interent-las-24h-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.bomba.md/media/dune/logo/natgeowild.png</thumbnail>   
+<fanart>http://cdn.natgeotv.com.au/subjects/headers/wild.jpg</fanart>  </item>
+
