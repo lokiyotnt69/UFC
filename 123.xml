@@ -1,0 +1,94 @@
+	
+<channels>
+	<channels_info>
+		<title>[COLOR red]*BIENVENIDOS [/COLOR][COLOR blue] AL [/COLOR][COLOR red] JOKER [/COLOR]</title>
+		<genre>THE JOKER </genre>
+		<description> Addon THE JOKER  Para el Disfrute de Todos</description>
+		<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/ca/83/db/ca83db60ab88ef1bce781373fc5b7091.jpg</thumbnail>
+		<fanart>https://s-media-cache-ak0.pinimg.com/originals/ca/83/db/ca83db60ab88ef1bce781373fc5b7091.jpg</fanart>
+		<date></date>
+		<credits>THE JOKER </credits>
+	</channels_info>
+	
+	
+			
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*PELICULAS 2017[/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/ESTRENOS2017.xml</externallink>
+	</channel>
+		
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*DRAGON BALL SUPER [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/DRAGON%20BALL%20SUPER.xml</externallink>
+	</channel>
+	
+		<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES JHG[/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/JHGSERIESDSKOKO.xml</externallink>
+	</channel>
+	
+
+	
+		
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES INFANTILES* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>http://i.imgur.com/rz4qTQ7.jpg</thumbnail>
+		<fanart>http://i.imgur.com/rz4qTQ7.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESCRIOS.xml</externallink>
+	</channel>
+	
+		
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES INFANTILES 2* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart>http://i.imgur.com/rz4qTQ7.jpg</fanart>
+		<link>http://i.imgur.com/rz4qTQ7.jpg</link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SeriescrioPlanA.xml</externallink>
+	</channel>
+	
+	<!-----------------------
+	
+		<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES RETRO* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>http://i.imgur.com/o11UEZS.jpg</thumbnail>
+		<fanart>http://i.imgur.com/o11UEZS.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SEriesretro1.xml</externallink>
+	</channel>
+	
+		
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES RETRO 2[/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>http://i.imgur.com/o11UEZS.jpg</thumbnail>
+		<fanart>http://i.imgur.com/o11UEZS.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/SERIESRETRO/master/baseseriesretro.xml</externallink>
+	</channel>
+	
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>http://i.imgur.com/vYbnGCw.jpg</thumbnail>
+		<fanart>http://i.imgur.com/vYbnGCw.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESJOKER.xml</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*JOKER*  [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/ca/83/db/ca83db60ab88ef1bce781373fc5b7091.jpg</thumbnail>
+		<fanart>https://s-media-cache-ak0.pinimg.com/originals/ca/83/db/ca83db60ab88ef1bce781373fc5b7091.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/BASE2JOKER.xml</externallink>
+	</channel>
