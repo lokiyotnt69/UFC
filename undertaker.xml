@@ -1,5 +1,4 @@
-<item><title>[COLOR white]ACCESO A DIABLO, PIDE CLAVE A JUAN[/COLOR]</title><link>NA</link><externallink>$doregex[getinput]</externallink><thumbnail></thumbnail><fanart></fanart> <regex><name>getinput</name> <expres><![CDATA[#$pyFunctionimport xbmcgui,xbmc, xbmcaddon, time def GetLSProData(page_data,Cookie_Jar,m,txt='Contraseña'): addon = xbmcaddon.Addon('plugin.video.eldiablo3') addon_version = addon.getAddonInfo('version') profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8')) solver = InputWindow( txt=txt) solution = solver.get() if solution == 'maracenatnt': return "https://pastebin.com/rew/Y8aiQ7" class InputWindow(xbmcgui.WindowDialog): def init(self, *args, **kwargs): self.txt = kwargs.get('txt','') xbmcgui.WindowXMLDialog.__init__(self) #self.addControl(self.txt) path = xbmcaddon.Addon().getAddonInfo('path') self.kbd = xbmc.Keyboard() self.kbd.setHeading( self.txt) def get(self): self.show() time.sleep(2) self.kbd.doModal() if (self.kbd.isConfirmed()): text = self.kbd.getText() self.close() return text self.close() return False]]></expres><page></page></regex></item>
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 	
 <item>
