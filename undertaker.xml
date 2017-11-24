@@ -2,6 +2,7 @@
 
 
 	
+	
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] CREADOR JHGMASTER [/COLOR][COLOR orange] ROBAME!!!NUNCA PODRAS CONMIGO!!!!MIRIAM ESTAFADORA!!! [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
 <link>http://ignorame</link>
@@ -12,11 +13,11 @@
 
 	
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] NUEVO PROYECTO[/COLOR][COLOR orange] VIERNES!!!! [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ADDON [/COLOR][COLOR orange] DARKNIGHT [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>https://i.imgur.com/d3Aivnb.png</thumbnail>
-<fanart>https://i.imgur.com/d3Aivnb.png</fanart>
-<externallink></externallink>
+<thumbnail>https://i.imgur.com/dwkDYdh.jpg</thumbnail>
+<fanart>https://i.imgur.com/dwkDYdh.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/basedarki.xml</externallink>
 </item>	
 
 	
@@ -38,16 +39,18 @@
 </item>
 
 
-<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] MOVISTAR [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>https://i.imgur.com/iVfvshN.jpg</thumbnail>
-<fanart>https://i.imgur.com/iVfvshN.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/RxBryan.xml</externallink>
+ <item>
+<title>[COLOR white]MOVISTAR DIABLO IPTV DIARIA[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/121</externallink>
 </item>
 
+
+
 <item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] AUTONOMICAS)NUEVO [/COLOR][COLOR  yellow]  _**_ [/COLOR] </title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] AUTONOMICAS [/COLOR][COLOR  yellow]  _**_ [/COLOR] </title>
 <link>http://Ignoreme</link>
 <thumbnail>http://i.imgur.com/SaBa90E.jpg</thumbnail>
 <fanart>http://i.imgur.com/SaBa90E.jpg</fanart>
@@ -153,8 +156,17 @@
 </item> 
 
 
+<item>
+<title>[COLOR red] * [/COLOR][COLOR yellow] ZONA  [/COLOR] [COLOR red] FUTBOLEROS [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/g24UqUU.jpg</thumbnail>
+<fanart>https://i.imgur.com/g24UqUU.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MIS-AMIGAS/master/todofut.xml</externallink>	
+</item>
+
+
 <item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] Explosiva (OFF)[/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] OFF Explosiva (OFF)[/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/g24UqUU.jpg</thumbnail>
 <fanart>https://i.imgur.com/g24UqUU.jpg</fanart>
@@ -168,3 +180,11 @@
 <fanart>https://i.imgur.com/g24UqUU.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/peliculas2017robamecabron.xml</externallink>	
 </item> 
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] OFF [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/iVfvshN.jpg</thumbnail>
+<fanart>https://i.imgur.com/iVfvshN.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/RxBryan.xml</externallink>
+</item>
